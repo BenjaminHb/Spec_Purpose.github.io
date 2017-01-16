@@ -18,3 +18,4 @@
      
      以上 <a> 标签的地址指向了我的网站，更改为 <a href="#" class="thubnail"> 可以在点击图片时不跳转到我的网站
 
+# Spec_Purpose_Release.github.io
